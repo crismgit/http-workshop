@@ -1,0 +1,20 @@
+{
+  "name": "http-workshop",
+  "version": "1.0.0",
+  "description": "Workshop de restify do meetup FrontEndSP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "http server"
+  ],
+  "author": "Cris",
+  "license": "MPL-2.0",
+  "homepage": "",
+  
+}
